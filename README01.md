@@ -1,3 +1,5 @@
+## 默认IP：10.10.8.9
+
 ## 主题增加
 - CONFIG_PACKAGE_luci-theme-edge=y
 - CONFIG_PACKAGE_luci-theme-argonne=m
