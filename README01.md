@@ -13,4 +13,4 @@
 - luci-app-smartdns=y------------smartdns防污染
 - luci-app-adguardhome=y------------去广告
 - luci-app-clash=y------------clash科学上网
-1
+#10000
