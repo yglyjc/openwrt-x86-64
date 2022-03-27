@@ -1,6 +1,6 @@
 # 主题增加
-CONFIG_PACKAGE_luci-theme-edge=y
-CONFIG_PACKAGE_luci-theme-argonne=m
+-CONFIG_PACKAGE_luci-theme-edge=y
+-CONFIG_PACKAGE_luci-theme-argonne=m
 
 -------------------------------------------------------
 #插件删除
