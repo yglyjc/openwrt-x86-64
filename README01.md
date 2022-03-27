@@ -8,7 +8,7 @@
 - luci-app-adbyby-plus------------广告屏蔽大师Plus +
 
 -------------------------------------------------------
-# 插件增加
+## 插件增加
 - luci-app-passwall------------passwall科学上网
 - luci-app-smartdns=y------------smartdns防污染
 - luci-app-adguardhome=y------------去广告
